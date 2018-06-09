@@ -1,0 +1,91 @@
+/* add your CSS here */
+
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Jura');
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+body {
+        font-family: Jura, sans-serif, Helvetica;
+        font-size: 16px;
+        text-align: justify;
+        line-height: 1.5em;
+        /* background: url(light_wool.png) scroll top left; */
+        background: url(http://res.cloudinary.com/doijyfiv5/image/upload/v1516072080/rough_diagonal_qy5pos.png) top left;
+}
+
+#container {
+        margin: 20px auto;
+        padding: 2px;
+        width: 340px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #404040;
+        border-radius: 5px;
+        -webkit-box-shadow: 10px 10px 20px 3px rgba(125, 125, 125, 1);
+        -moz-box-shadow: 10px 10px 20px 3px rgba(125, 125, 125, 1);
+        box-shadow: 10px 10px 20px 3px rgba(125, 125, 125, 1);
+        background: url(http://res.cloudinary.com/doijyfiv5/image/upload/v1516072174/me-pat_r3u2sa.png) top left;
+}
+
+#container h1 {
+        margin: 10px 0px 14px 20px;
+        font-size: 1.7em;
+        font-family: 'Nova Cut';
+        text-transform: uppercase;
+        color: white;
+        text-shadow: 2px 2px 2px #000000;
+        font-family: 'Jura';
+        letter-spacing: 2px;
+}
+
+#container img {
+        border-style: solid;
+        border-width: 1px;
+        border-color: #ffcc99;
+        margin: 0px 0px 5px 20px;
+}
+
+#card {
+        border-style: solid;
+        border-width: 1px;
+        border-color: #505050;
+        padding: 10px;
+        margin: 8px 18px 22px 18px;
+        background: url(http://res.cloudinary.com/doijyfiv5/image/upload/v1516072226/vintage-concrete_b9oe8c.png) top left;
+        color: black;
+}
+
+p#interesting-fact {
+        font-family: Great Vibes, sans-serif, Helvetica;
+        font-size: 1.6em;
+        letter-spacing: 1px;
+        text-shadow: 0.2px 0.2px #1a1a1a;
+        font-style: italic;
+}
+
+#facts {
+        padding: 12px 0 12px 0;
+        margin: 5px 0 5px 0;
+}
+
+#facts li {
+        line-height: 1.4em;
+        list-style-type: none;
+}
+
+#facts li span {
+        font-family: Roboto, sans-serif, Helvetica;
+        font-weight: 700;
+        text-shadow: 0.2px 0.2px #595959;
+        color: #814100;
+}
+
+#card #vintage {
+        border-color: transparent;
+        width: 80%;
+        margin: 5px 0px 0px 20px
+}
