@@ -7,5 +7,5 @@
 Live version of this project can be found <a href="https://codepen.io/Abdusamikovna/full/godwEL/">here.</a><br> 
 In addition, I also came up with its animated version which can be found <a href="https://codepen.io/Abdusamikovna/full/dJqqWr/">here.</a>
 
-<img src="http://res.cloudinary.com/doijyfiv5/image/upload/v1528603082/animal_trading_card__u692gf.png" alt="Animal Trading Card" height="90%" width="100%">
+<img src="http://res.cloudinary.com/doijyfiv5/image/upload/v1528690366/animal_trading_eyudfz.png" alt="Animal Trading Card">
 
