@@ -1,8 +1,5 @@
 # GrowWithGoogle-Animal-Trading-Cards-Project
 
-"Animal Trading Cards" Project was coded to get accepted for the Final Phase of Grow with Google Program.
-Reviewing it on the Final Phase of the Program. 
-Posting on GitHub via Git Bash. 
+Live version of this project can be found <a href="https://codepen.io/Abdusamikovna/full/godwEL/">here.</a><br> 
 
-Live version can be found at https://codepen.io/Abdusamikovna/full/godwEL/
-I also came up with an animated version https://codepen.io/Abdusamikovna/full/dJqqWr/
+An animated version is <a href="https://codepen.io/Abdusamikovna/full/dJqqWr/">here.</a>
